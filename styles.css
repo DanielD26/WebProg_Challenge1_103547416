@@ -1,6 +1,7 @@
 html, body {
     margin:0;
     color:white;
+    background-color: #42A5F5;
 }
 
 .header {
@@ -14,11 +15,19 @@ html, body {
     margin:0;
 }
 
-.header p{
+.big {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 10pt;
+    font-size: 20px;
     margin-top: auto;
 }
+
+.smaller {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-top: auto;
+}
+
+
 
 .body {
     background-color: #1565C0;
